@@ -22,3 +22,51 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+
+h1 {
+  text-align: center;
+  padding: 200px;
+  margin: 200;
+  color: white;
+  position: relative;
+  background-position: 0 0;
+  background-size: cover;
+  font-size: 50px;
+}
+
+p {
+  margin: 50px;
+  line-height: 1.5em;
+}
+
+h2 {
+  margin: 50px;
+}
+
+.list {
+  margin-left: 75px;
+  line-height: 1.5em;
+}
+
+
+hr {
+  height: 3px;
+  color:lightgrey;
+  background-color: lightgrey;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#info-img {
+  position: relative;
+  align-items: center;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+
+ol {
+  margin-bottom: 50px;
+}
