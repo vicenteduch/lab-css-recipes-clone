@@ -7,3 +7,15 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px
 }
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  height: 10em;
+  width: 100%;
+  background-position: center center;
+  background-size: cover;
+  font-size: 3em;
+}
